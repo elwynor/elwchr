@@ -1,0 +1,6 @@
+; Filename: ELWCHR_LIB.DEF
+LIBRARY ELWCHR.DLL
+; *** Visual Studio 2022 EXPORT ALIASES ONLY ***
+; Chain Reaction - Copyright (c) 2024 Elwynor Technologies
+EXPORTS
+    init__elwchr=_init__elwchr	@1

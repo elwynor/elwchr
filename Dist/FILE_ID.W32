@@ -1,0 +1,10 @@
+Chain Reaction v1.0 for Worldgroup 3.2
+ _ |      ._  _ ._ _|_ _  _|_ ._  _ | _  _ o _  _ 
+(/_|\/\/\/| |(_)|   |_(/_(_| || |(_)|(_)(_||(/__> 
+        /                                _|       
+http://www.elwynor.com
+telnet:bbs.elwynor.com
+
+A fun word game where the user starts with a word
+then starts guessing the next words in the chain.
+Each word is related to the prior/next words.
